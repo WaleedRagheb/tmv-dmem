@@ -1,0 +1,2160 @@
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...152
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...153
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...154
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...155
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...156
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...157
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...158
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...159
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...160
+Run the Model to get new decision...... at sequence: [160]
+Finish [ProcessAcc].....160
+0
+1
+2
+3
+4
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9703027750479667 Confusion Matrix =
+[[103672   3173]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9836585708268988 Confusion Matrix =
+[[105099   1746]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...161
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...162
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...163
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...164
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...165
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...166
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...167
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...168
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...169
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...170
+Run the Model to get new decision...... at sequence: [170]
+Finish [ProcessAcc].....170
+0
+1
+2
+3
+4
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9707147628590514 Confusion Matrix =
+[[108987   3288]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9838966822533957 Confusion Matrix =
+[[110467   1808]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...171
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...172
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...173
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...174
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...175
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...176
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...177
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...178
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...179
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...180
+Run the Model to get new decision...... at sequence: [180]
+Finish [ProcessAcc].....180
+0
+1
+2
+3
+4
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9710061133737491 Confusion Matrix =
+[[114201   3410]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9841256345069764 Confusion Matrix =
+[[115744   1867]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...181
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...182
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...183
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...184
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...185
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...186
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...187
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...188
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...189
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...190
+Run the Model to get new decision...... at sequence: [190]
+Finish [ProcessAcc].....190
+0
+1
+2
+3
+4
+5
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9711785772423898 Confusion Matrix =
+[[119319   3541]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9842747843073417 Confusion Matrix =
+[[120928   1932]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...191
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...192
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...193
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...194
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...195
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...196
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...197
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...198
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...199
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...200
+Run the Model to get new decision...... at sequence: [200]
+Finish [ProcessAcc].....200
+0
+1
+2
+3
+4
+5
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9716726934762064 Confusion Matrix =
+[[124412   3627]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9845906325416475 Confusion Matrix =
+[[126066   1973]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...201
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...202
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...203
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...204
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...205
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...206
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...207
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...208
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...209
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...210
+Run the Model to get new decision...... at sequence: [210]
+Finish [ProcessAcc].....210
+0
+1
+2
+3
+4
+5
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9721149946678282 Confusion Matrix =
+[[129441   3713]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9848746564128753 Confusion Matrix =
+[[131140   2014]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...211
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...212
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...213
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...214
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...215
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...216
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...217
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...218
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...219
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...220
+Run the Model to get new decision...... at sequence: [220]
+Finish [ProcessAcc].....220
+0
+1
+2
+3
+4
+5
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9721562952243126 Confusion Matrix =
+[[134352   3848]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9850361794500724 Confusion Matrix =
+[[136132   2068]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...221
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...222
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...223
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...224
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...225
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...226
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...227
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...228
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...229
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...230
+Run the Model to get new decision...... at sequence: [230]
+Finish [ProcessAcc].....230
+0
+1
+2
+3
+4
+5
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9725448564384442 Confusion Matrix =
+[[139248   3931]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9852073278902632 Confusion Matrix =
+[[141061   2118]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...231
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...232
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...233
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...234
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...235
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...236
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...237
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...238
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...239
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...240
+Run the Model to get new decision...... at sequence: [240]
+Finish [ProcessAcc].....240
+0
+1
+2
+3
+4
+5
+6
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.972838305888072 Confusion Matrix =
+[[144090   4023]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9853557756577748 Confusion Matrix =
+[[145944   2169]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...241
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...242
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...243
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...244
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...245
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...246
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...247
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...248
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...249
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...250
+Run the Model to get new decision...... at sequence: [250]
+Finish [ProcessAcc].....250
+0
+1
+2
+3
+4
+5
+6
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9731195796380653 Confusion Matrix =
+[[148898   4113]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9855435230146852 Confusion Matrix =
+[[150799   2212]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...251
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...252
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...253
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...254
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...255
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...256
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...257
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...258
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...259
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...260
+Run the Model to get new decision...... at sequence: [260]
+Finish [ProcessAcc].....260
+0
+1
+2
+3
+4
+5
+6
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.973403008709422 Confusion Matrix =
+[[153676   4199]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9856532066508313 Confusion Matrix =
+[[155610   2265]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...261
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...262
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...263
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...264
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...265
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...266
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...267
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...268
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...269
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...270
+Run the Model to get new decision...... at sequence: [270]
+Finish [ProcessAcc].....270
+0
+1
+2
+3
+4
+5
+6
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9735633808876951 Confusion Matrix =
+[[158390   4301]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9857828644485559 Confusion Matrix =
+[[160378   2313]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...271
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...272
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...273
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...274
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...275
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...276
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...277
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...278
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...279
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...280
+Run the Model to get new decision...... at sequence: [280]
+Finish [ProcessAcc].....280
+0
+1
+2
+3
+4
+5
+6
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9737458054192193 Confusion Matrix =
+[[163081   4397]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9859384516175259 Confusion Matrix =
+[[165123   2355]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...281
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...282
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...283
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...284
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...285
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...286
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...287
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...288
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...289
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...290
+Run the Model to get new decision...... at sequence: [290]
+Finish [ProcessAcc].....290
+0
+1
+2
+3
+4
+5
+6
+7
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9739444512191581 Confusion Matrix =
+[[167722   4487]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9861215151356781 Confusion Matrix =
+[[169819   2390]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...291
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...292
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...293
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...294
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...295
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...296
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...297
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...298
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...299
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...300
+Run the Model to get new decision...... at sequence: [300]
+Finish [ProcessAcc].....300
+0
+1
+2
+3
+4
+5
+6
+7
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9741110753034697 Confusion Matrix =
+[[172292   4579]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.986182019664049 Confusion Matrix =
+[[174427   2444]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...301
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...302
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...303
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...304
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...305
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...306
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...307
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...308
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...309
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...310
+Run the Model to get new decision...... at sequence: [310]
+Finish [ProcessAcc].....310
+0
+1
+2
+3
+4
+5
+6
+7
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9742617684495898 Confusion Matrix =
+[[176810   4671]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9863071065290582 Confusion Matrix =
+[[178996   2485]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...311
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...312
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...313
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...314
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...315
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...316
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...317
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...318
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...319
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...320
+Run the Model to get new decision...... at sequence: [320]
+Finish [ProcessAcc].....320
+0
+1
+2
+3
+4
+5
+6
+7
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9745180136842727 Confusion Matrix =
+[[181312   4741]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9864608471779547 Confusion Matrix =
+[[183534   2519]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...321
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...322
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...323
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...324
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...325
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...326
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...327
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...328
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...329
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...330
+Run the Model to get new decision...... at sequence: [330]
+Finish [ProcessAcc].....330
+0
+1
+2
+3
+4
+5
+6
+7
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9745400366186986 Confusion Matrix =
+[[185760   4853]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9864647217136292 Confusion Matrix =
+[[188033   2580]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...331
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...332
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...333
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...334
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...335
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...336
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...337
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...338
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...339
+(<class 'dbm.error'>, <class 'OSError'>)
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...341
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...342
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...343
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...344
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...345
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...346
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...347
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...348
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...349
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...350
+Run the Model to get new decision...... at sequence: [350]
+Finish [ProcessAcc].....350
+0
+1
+2
+3
+4
+5
+6
+7
+8
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...360
+Run the Model to get new decision...... at sequence: [360]
+Finish [ProcessAcc].....360
+Traceback (most recent call last):
+  File "/home/waleed/.local/lib/python3.6/site-packages/pandas/core/indexes/base.py", line 3063, in get_loc
+    return self._engine.get_loc(key)
+  File "pandas/_libs/index.pyx", line 140, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 162, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1492, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1500, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "eRiskDummyRuns.py", line 54, in <module>
+    eRisk_dummy_runs(wrDirs, decDirs)
+  File "/home/waleed/Projects/AttentionLSTM_r/eRisk_T2_runs_dummy.py", line 228, in eRisk_dummy_runs
+    tok_val, val_labels = get_texts_eRisk(df_val, 1)
+  File "/home/waleed/Projects/AttentionLSTM_r/AWDLSTM/create_toks_2.py", line 58, in get_texts_eRisk
+    texts = f'\n{BOS} {FLD} 1 ' + df[n_lbls].astype(str)
+  File "/home/waleed/.local/lib/python3.6/site-packages/pandas/core/frame.py", line 2685, in __getitem__
+    return self._getitem_column(key)
+  File "/home/waleed/.local/lib/python3.6/site-packages/pandas/core/frame.py", line 2692, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/waleed/.local/lib/python3.6/site-packages/pandas/core/generic.py", line 2486, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/waleed/.local/lib/python3.6/site-packages/pandas/core/internals.py", line 4115, in get
+    loc = self.items.get_loc(item)
+  File "/home/waleed/.local/lib/python3.6/site-packages/pandas/core/indexes/base.py", line 3065, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 140, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 162, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1492, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1500, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 1
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...360
+Run the Model to get new decision...... at sequence: [360]
+Finish [ProcessAcc].....360
+Traceback (most recent call last):
+  File "/home/waleed/.local/lib/python3.6/site-packages/pandas/core/indexes/base.py", line 3063, in get_loc
+    return self._engine.get_loc(key)
+  File "pandas/_libs/index.pyx", line 140, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 162, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1492, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1500, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "eRiskDummyRuns.py", line 54, in <module>
+    eRisk_dummy_runs(wrDirs, decDirs)
+  File "/home/waleed/Projects/AttentionLSTM_r/eRisk_T2_runs_dummy.py", line 228, in eRisk_dummy_runs
+    tok_val, val_labels = get_texts_eRisk(df_val, 1)
+  File "/home/waleed/Projects/AttentionLSTM_r/AWDLSTM/create_toks_2.py", line 58, in get_texts_eRisk
+    texts = f'\n{BOS} {FLD} 1 ' + df[n_lbls].astype(str)
+  File "/home/waleed/.local/lib/python3.6/site-packages/pandas/core/frame.py", line 2685, in __getitem__
+    return self._getitem_column(key)
+  File "/home/waleed/.local/lib/python3.6/site-packages/pandas/core/frame.py", line 2692, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/waleed/.local/lib/python3.6/site-packages/pandas/core/generic.py", line 2486, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/waleed/.local/lib/python3.6/site-packages/pandas/core/internals.py", line 4115, in get
+    loc = self.items.get_loc(item)
+  File "/home/waleed/.local/lib/python3.6/site-packages/pandas/core/indexes/base.py", line 3065, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 140, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 162, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1492, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1500, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 1
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...360
+Run the Model to get new decision...... at sequence: [360]
+Finish [ProcessAcc].....360
+Traceback (most recent call last):
+  File "eRiskDummyRuns.py", line 54, in <module>
+    eRisk_dummy_runs(wrDirs, decDirs)
+  File "/home/waleed/Projects/AttentionLSTM_r/eRisk_T2_runs_dummy.py", line 228, in eRisk_dummy_runs
+    tok_val, val_labels = get_texts_eRisk(df_val, 1)
+  File "/home/waleed/Projects/AttentionLSTM_r/AWDLSTM/create_toks_2.py", line 57, in get_texts_eRisk
+    labels = df.iloc[:,range(n_lbls)].values.astype(np.int64)
+ValueError: invalid literal for int() with base 10: "   \t Hahahahah.  Wow.  That's funny "
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...360
+Run the Model to get new decision...... at sequence: [360]
+Finish [ProcessAcc].....360
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9819001200127361 Confusion Matrix =
+[[200450   3695]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 3; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9904577628646305 Confusion Matrix =
+[[202197   1948]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...361
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...362
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...363
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...364
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...365
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...366
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...367
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...368
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...369
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...370
+Run the Model to get new decision...... at sequence: [370]
+Finish [ProcessAcc].....370
+Traceback (most recent call last):
+  File "eRiskDummyRuns.py", line 54, in <module>
+    eRisk_dummy_runs(wrDirs, decDirs)
+  File "/home/waleed/Projects/AttentionLSTM_r/eRisk_T2_runs_dummy.py", line 228, in eRisk_dummy_runs
+    tok_val, val_labels = get_texts_eRisk(df_val, 1)
+  File "/home/waleed/Projects/AttentionLSTM_r/AWDLSTM/create_toks_2.py", line 62, in get_texts_eRisk
+    tok = Tokenizer().proc_all_mp(partition_by_cores(texts))
+  File "/home/waleed/Projects/AttentionLSTM_r/fastai/text.py", line 101, in proc_all_mp
+    return sum(e.map(Tokenizer.proc_all, ss, [lang]*len(ss)), [])
+  File "/home/waleed/anaconda3/lib/python3.6/concurrent/futures/process.py", line 496, in map
+    timeout=timeout)
+  File "/home/waleed/anaconda3/lib/python3.6/concurrent/futures/_base.py", line 575, in map
+    fs = [self.submit(fn, *args) for args in zip(*iterables)]
+  File "/home/waleed/anaconda3/lib/python3.6/concurrent/futures/_base.py", line 575, in <listcomp>
+    fs = [self.submit(fn, *args) for args in zip(*iterables)]
+  File "/home/waleed/anaconda3/lib/python3.6/concurrent/futures/process.py", line 466, in submit
+    self._start_queue_management_thread()
+  File "/home/waleed/anaconda3/lib/python3.6/concurrent/futures/process.py", line 427, in _start_queue_management_thread
+    self._adjust_process_count()
+  File "/home/waleed/anaconda3/lib/python3.6/concurrent/futures/process.py", line 446, in _adjust_process_count
+    p.start()
+  File "/home/waleed/anaconda3/lib/python3.6/multiprocessing/process.py", line 105, in start
+    self._popen = self._Popen(self)
+  File "/home/waleed/anaconda3/lib/python3.6/multiprocessing/context.py", line 223, in _Popen
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "/home/waleed/anaconda3/lib/python3.6/multiprocessing/context.py", line 277, in _Popen
+    return Popen(process_obj)
+  File "/home/waleed/anaconda3/lib/python3.6/multiprocessing/popen_fork.py", line 26, in __init__
+    self._launch(process_obj)
+  File "/home/waleed/anaconda3/lib/python3.6/multiprocessing/popen_fork.py", line 73, in _launch
+    self.pid = os.fork()
+OSError: [Errno 12] Cannot allocate memory
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...370
+Run the Model to get new decision...... at sequence: [370]
+Finish [ProcessAcc].....370
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9819732571351862 Confusion Matrix =
+[[204819   3760]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9905167826099464 Confusion Matrix =
+[[206601   1978]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...371
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...372
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...373
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...374
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...375
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...376
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...377
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...378
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...379
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...380
+Run the Model to get new decision...... at sequence: [380]
+Finish [ProcessAcc].....380
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9820623591284748 Confusion Matrix =
+[[209140   3820]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.990561607813674 Confusion Matrix =
+[[210950   2010]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...381
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...382
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...383
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...384
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...385
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...386
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...387
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...388
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...389
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...390
+Run the Model to get new decision...... at sequence: [390]
+Finish [ProcessAcc].....390
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9822365393465256 Confusion Matrix =
+[[213440   3860]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9906488725264612 Confusion Matrix =
+[[215268   2032]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...391
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...392
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...393
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...394
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...395
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...396
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...397
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...398
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...399
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...400
+Run the Model to get new decision...... at sequence: [400]
+Finish [ProcessAcc].....400
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9822647827323066 Confusion Matrix =
+[[217663   3930]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9906811135730822 Confusion Matrix =
+[[219528   2065]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...401
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...402
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...403
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...404
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...405
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...406
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...407
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...408
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...409
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...410
+Run the Model to get new decision...... at sequence: [410]
+Finish [ProcessAcc].....410
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.982280902159764 Confusion Matrix =
+[[221856   4002]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9906091437983158 Confusion Matrix =
+[[223737   2121]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...411
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...412
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...413
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...414
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...415
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...416
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...417
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...418
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...419
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...420
+Run the Model to get new decision...... at sequence: [420]
+Finish [ProcessAcc].....420
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9823719620319182 Confusion Matrix =
+[[226032   4056]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9906514029414832 Confusion Matrix =
+[[227937   2151]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...421
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...422
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...423
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...424
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...425
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...426
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...427
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...428
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...429
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...430
+Run the Model to get new decision...... at sequence: [430]
+Finish [ProcessAcc].....430
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9823344629488941 Confusion Matrix =
+[[230159   4139]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9905974442803609 Confusion Matrix =
+[[232095   2203]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...431
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...432
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...433
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...434
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...435
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...436
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...437
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...438
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...439
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...440
+Run the Model to get new decision...... at sequence: [440]
+Finish [ProcessAcc].....440
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9824301714630761 Confusion Matrix =
+[[234287   4190]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9906364135744747 Confusion Matrix =
+[[236244   2233]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...441
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...442
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...443
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...444
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...445
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...446
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...447
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...448
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...449
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...450
+Run the Model to get new decision...... at sequence: [450]
+Finish [ProcessAcc].....450
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9823753683820045 Confusion Matrix =
+[[238339   4276]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9906353687941801 Confusion Matrix =
+[[240343   2272]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...451
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...452
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...453
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...454
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...455
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...456
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...457
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...458
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...459
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...460
+Run the Model to get new decision...... at sequence: [460]
+Finish [ProcessAcc].....460
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9824387911014562 Confusion Matrix =
+[[242404   4333]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9906378046259783 Confusion Matrix =
+[[244427   2310]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...461
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...462
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...463
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...464
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...465
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...466
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...467
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...468
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...469
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...470
+Run the Model to get new decision...... at sequence: [470]
+Finish [ProcessAcc].....470
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9825684086296744 Confusion Matrix =
+[[246437   4372]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9907658816071193 Confusion Matrix =
+[[248493   2316]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...471
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...472
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...473
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...474
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...475
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...476
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...477
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...478
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...479
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...480
+Run the Model to get new decision...... at sequence: [480]
+Finish [ProcessAcc].....480
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.982553143063442 Confusion Matrix =
+[[250385   4446]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9907585811773293 Confusion Matrix =
+[[252476   2355]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...481
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...482
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...483
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...484
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...485
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...486
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...487
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...488
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...489
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...490
+Run the Model to get new decision...... at sequence: [490]
+Finish [ProcessAcc].....490
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.982649287616074 Confusion Matrix =
+[[254289   4490]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9907527272305713 Confusion Matrix =
+[[256386   2393]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...491
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...492
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...493
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...494
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...495
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...496
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...497
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...498
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...499
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...500
+Run the Model to get new decision...... at sequence: [500]
+Finish [ProcessAcc].....500
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9827522544642008 Confusion Matrix =
+[[258170   4531]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.990814652399496 Confusion Matrix =
+[[260288   2413]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...501
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...502
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...503
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...504
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...505
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...506
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...507
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...508
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...509
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...510
+Run the Model to get new decision...... at sequence: [510]
+Finish [ProcessAcc].....510
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9827545458296912 Confusion Matrix =
+[[261966   4597]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9908164298871186 Confusion Matrix =
+[[264115   2448]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...511
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...512
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...513
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...514
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...515
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...516
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...517
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...518
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...519
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...520
+Run the Model to get new decision...... at sequence: [520]
+Finish [ProcessAcc].....520
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9827966850706142 Confusion Matrix =
+[[265761   4652]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9908473335231665 Confusion Matrix =
+[[267938   2475]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...521
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...522
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...523
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...524
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...525
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...526
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...527
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...528
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...529
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...530
+Run the Model to get new decision...... at sequence: [530]
+Finish [ProcessAcc].....530
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9828262018923994 Confusion Matrix =
+[[269545   4710]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9908698109423711 Confusion Matrix =
+[[271751   2504]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...531
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...532
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...533
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...534
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...535
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...536
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...537
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...538
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...539
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...540
+Run the Model to get new decision...... at sequence: [540]
+Finish [ProcessAcc].....540
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9827957607949049 Confusion Matrix =
+[[273287   4784]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9908404688011335 Confusion Matrix =
+[[275524   2547]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...541
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...542
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...543
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...544
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...545
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...546
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...547
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...548
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...549
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...550
+Run the Model to get new decision...... at sequence: [550]
+Finish [ProcessAcc].....550
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9828463372406551 Confusion Matrix =
+[[277029   4835]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9908147191553374 Confusion Matrix =
+[[279275   2589]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...551
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...552
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...553
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...554
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...555
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...556
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...557
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...558
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...559
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...560
+Run the Model to get new decision...... at sequence: [560]
+Finish [ProcessAcc].....560
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9828561626091401 Confusion Matrix =
+[[280745   4897]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9908066740885444 Confusion Matrix =
+[[283016   2626]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...561
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...562
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...563
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...564
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...565
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...566
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...567
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...568
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...569
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...570
+Run the Model to get new decision...... at sequence: [570]
+Finish [ProcessAcc].....570
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9828303490597984 Confusion Matrix =
+[[284437   4969]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9907638404179595 Confusion Matrix =
+[[286733   2673]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...571
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...572
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...573
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...574
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...575
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...576
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...577
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...578
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...579
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...580
+Run the Model to get new decision...... at sequence: [580]
+Finish [ProcessAcc].....580
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9829309974314631 Confusion Matrix =
+[[288159   5004]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9908515058175827 Confusion Matrix =
+[[290481   2682]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...581
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...582
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...583
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...584
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...585
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...586
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...587
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...588
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...589
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...590
+Run the Model to get new decision...... at sequence: [590]
+Finish [ProcessAcc].....590
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9829468330554573 Confusion Matrix =
+[[291832   5063]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9908620892908268 Confusion Matrix =
+[[294182   2713]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...591
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...592
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...593
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...594
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...595
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...596
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...597
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...598
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...599
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...600
+Run the Model to get new decision...... at sequence: [600]
+Finish [ProcessAcc].....600
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9829944645518416 Confusion Matrix =
+[[295496   5112]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9908784862678305 Confusion Matrix =
+[[297866   2742]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...601
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...602
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...603
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...604
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...605
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...606
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...607
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...608
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...609
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...610
+Run the Model to get new decision...... at sequence: [610]
+Finish [ProcessAcc].....610
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9830688387103135 Confusion Matrix =
+[[299139   5152]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9909034444002616 Confusion Matrix =
+[[301523   2768]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...611
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...612
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...613
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...614
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...615
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...616
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...617
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...618
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...619
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...620
+Run the Model to get new decision...... at sequence: [620]
+Finish [ProcessAcc].....620
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9831277337065407 Confusion Matrix =
+[[302765   5196]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9909404112858446 Confusion Matrix =
+[[305171   2790]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...621
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...622
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...623
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...624
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...625
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...626
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...627
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...628
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...629
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...630
+Run the Model to get new decision...... at sequence: [630]
+Finish [ProcessAcc].....630
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9831563612092507 Confusion Matrix =
+[[306382   5249]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9909700896252298 Confusion Matrix =
+[[308817   2814]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...631
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...632
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...633
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...634
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...635
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...636
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...637
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...638
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...639
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...640
+Run the Model to get new decision...... at sequence: [640]
+Finish [ProcessAcc].....640
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9831965289319108 Confusion Matrix =
+[[309994   5298]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9910273651091687 Confusion Matrix =
+[[312463   2829]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...641
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...642
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...643
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...644
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...645
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...646
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...647
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...648
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...649
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...650
+Run the Model to get new decision...... at sequence: [650]
+Finish [ProcessAcc].....650
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9832601743274597 Confusion Matrix =
+[[313601   5339]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9910422022951025 Confusion Matrix =
+[[316083   2857]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...651
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...652
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...653
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...654
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...655
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...656
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...657
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...658
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...659
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...660
+Run the Model to get new decision...... at sequence: [660]
+Finish [ProcessAcc].....660
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9832721591190913 Confusion Matrix =
+[[317180   5396]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9910346708992609 Confusion Matrix =
+[[319684   2892]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...661
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...662
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...663
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...664
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...665
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...666
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...667
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...668
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...669
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...670
+Run the Model to get new decision...... at sequence: [670]
+Finish [ProcessAcc].....670
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...680
+Run the Model to get new decision...... at sequence: [680]
+Finish [ProcessAcc].....680
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9833080608964638 Confusion Matrix =
+[[324236   5504]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9910444592709408 Confusion Matrix =
+[[326787   2953]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...681
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...682
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...683
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...684
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...685
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...686
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...687
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...688
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...689
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...690
+Run the Model to get new decision...... at sequence: [690]
+Finish [ProcessAcc].....690
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9833728432108026 Confusion Matrix =
+[[327709   5541]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9910817704426107 Confusion Matrix =
+[[330278   2972]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...691
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...692
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...693
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...694
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...695
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...696
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...697
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...698
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...699
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...700
+Run the Model to get new decision...... at sequence: [700]
+Finish [ProcessAcc].....700
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.983450532742585 Confusion Matrix =
+[[331175   5573]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9911358048154704 Confusion Matrix =
+[[333763   2985]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...701
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...702
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...703
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...704
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...705
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...706
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...707
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...708
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...709
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...710
+Run the Model to get new decision...... at sequence: [710]
+Finish [ProcessAcc].....710
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.98350493646814 Confusion Matrix =
+[[334611   5612]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9911616792515497 Confusion Matrix =
+[[337216   3007]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...711
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...712
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...713
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...714
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...715
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...716
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...717
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...718
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...719
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...720
+Run the Model to get new decision...... at sequence: [720]
+Finish [ProcessAcc].....720
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.983542974194243 Confusion Matrix =
+[[338027   5656]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9911720975433758 Confusion Matrix =
+[[340649   3034]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...721
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...722
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...723
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...724
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...725
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...726
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...727
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...728
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...729
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...730
+Run the Model to get new decision...... at sequence: [730]
+Finish [ProcessAcc].....730
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9835743977231154 Confusion Matrix =
+[[341439   5702]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9911563312890151 Confusion Matrix =
+[[344071   3070]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...731
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...732
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...733
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...734
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...735
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...736
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...737
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...738
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...739
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...740
+Run the Model to get new decision...... at sequence: [740]
+Finish [ProcessAcc].....740
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9835468421518038 Confusion Matrix =
+[[344803   5768]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9911173485542158 Confusion Matrix =
+[[347457   3114]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...741
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...742
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...743
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...744
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...745
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...746
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...747
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...748
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...749
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...750
+Run the Model to get new decision...... at sequence: [750]
+Finish [ProcessAcc].....750
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9836374936437087 Confusion Matrix =
+[[348188   5792]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9911633425617267 Confusion Matrix =
+[[350852   3128]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...751
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...752
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...753
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...754
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...755
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...756
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...757
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...758
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...759
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...760
+Run the Model to get new decision...... at sequence: [760]
+Finish [ProcessAcc].....760
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9837085332922922 Confusion Matrix =
+[[351543   5822]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.991193877408252 Confusion Matrix =
+[[354218   3147]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...761
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...762
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...763
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...764
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...765
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...766
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...767
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...768
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...769
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...770
+Run the Model to get new decision...... at sequence: [770]
+Finish [ProcessAcc].....770
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.983794197956949 Confusion Matrix =
+[[354889   5846]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9912456512398298 Confusion Matrix =
+[[357577   3158]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...771
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...772
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...773
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...774
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...775
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...776
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...777
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...778
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...779
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...780
+Run the Model to get new decision...... at sequence: [780]
+Finish [ProcessAcc].....780
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9838197568706295 Confusion Matrix =
+[[358195   5891]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.991260306630851 Confusion Matrix =
+[[360904   3182]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...781
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...782
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...783
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...784
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...785
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...786
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...787
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...788
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...789
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...790
+Run the Model to get new decision...... at sequence: [790]
+Finish [ProcessAcc].....790
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards False; bpe False
+Accuracy = 0.9838527945306886 Confusion Matrix =
+[[361499   5933]
+ [     0      0]]
+dir_path data/nlp_clas/eRisk_anx_wr/eRisk_anx_wr_class; cuda_id 2; lm_id eRisk_anx_FT2; clas_id eRisk_anx_3_BEST; bs 64; backwards True; bpe False
+Accuracy = 0.9912800191600079 Confusion Matrix =
+[[364228   3204]
+ [     0      0]]
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...791
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...792
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...793
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...794
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...795
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...796
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...797
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...798
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...799
+(<class 'dbm.error'>, <class 'OSError'>)
+Processing sequence number ...800
+Run the Model to get new decision...... at sequence: [800]
+Finish [ProcessAcc].....800
+Traceback (most recent call last):
+  File "eRiskDummyRuns.py", line 54, in <module>
+    eRisk_dummy_runs(wrDirs, decDirs)
+  File "/home/waleed/Projects/AttentionLSTM_r/eRisk_T2_runs_dummy.py", line 228, in eRisk_dummy_runs
+    tok_val, val_labels = get_texts_eRisk(df_val, 1)
+  File "/home/waleed/Projects/AttentionLSTM_r/AWDLSTM/create_toks_2.py", line 62, in get_texts_eRisk
+    tok = Tokenizer().proc_all_mp(partition_by_cores(texts))
+  File "/home/waleed/Projects/AttentionLSTM_r/fastai/text.py", line 101, in proc_all_mp
+    return sum(e.map(Tokenizer.proc_all, ss, [lang]*len(ss)), [])
+  File "/home/waleed/anaconda3/lib/python3.6/concurrent/futures/process.py", line 496, in map
+    timeout=timeout)
+  File "/home/waleed/anaconda3/lib/python3.6/concurrent/futures/_base.py", line 575, in map
+    fs = [self.submit(fn, *args) for args in zip(*iterables)]
+  File "/home/waleed/anaconda3/lib/python3.6/concurrent/futures/_base.py", line 575, in <listcomp>
+    fs = [self.submit(fn, *args) for args in zip(*iterables)]
+  File "/home/waleed/anaconda3/lib/python3.6/concurrent/futures/process.py", line 466, in submit
+    self._start_queue_management_thread()
+  File "/home/waleed/anaconda3/lib/python3.6/concurrent/futures/process.py", line 427, in _start_queue_management_thread
+    self._adjust_process_count()
+  File "/home/waleed/anaconda3/lib/python3.6/concurrent/futures/process.py", line 446, in _adjust_process_count
+    p.start()
+  File "/home/waleed/anaconda3/lib/python3.6/multiprocessing/process.py", line 105, in start
+    self._popen = self._Popen(self)
+  File "/home/waleed/anaconda3/lib/python3.6/multiprocessing/context.py", line 223, in _Popen
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "/home/waleed/anaconda3/lib/python3.6/multiprocessing/context.py", line 277, in _Popen
+    return Popen(process_obj)
+  File "/home/waleed/anaconda3/lib/python3.6/multiprocessing/popen_fork.py", line 26, in __init__
+    self._launch(process_obj)
+  File "/home/waleed/anaconda3/lib/python3.6/multiprocessing/popen_fork.py", line 73, in _launch
+    self.pid = os.fork()
+OSError: [Errno 12] Cannot allocate memory

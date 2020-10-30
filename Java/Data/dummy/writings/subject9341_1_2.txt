@@ -1,0 +1,1 @@
+   	 I worked out the length of rope required to fill 1 km^2 and then multiplied that by the number of square kilometres on Earth. Still effectively the same calculation, but just in a different order. 

@@ -1,0 +1,1 @@
+ F3 menu without shift. Before it was alright, but now, there isnt a clean F3 only cordinate thingy. 	  

@@ -1,0 +1,1 @@
+   	 I think Rhoomba meant to state it's possible to do large scale development in Javascript, but it takes more discipline than it does in languages commonly used in that area. 

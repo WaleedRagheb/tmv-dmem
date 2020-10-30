@@ -1,0 +1,1 @@
+   	 Noticed an issue this morning when a fully charged battery dipped to 50% overnight. I was using nova with a Google app widget, I've charged my phone 3 times already at 3 pm. The phone was hot to the touch as well. Google app updated 3 time's in the past 2 days. Unfortunately I went back to the Google now launcher. G-850a 

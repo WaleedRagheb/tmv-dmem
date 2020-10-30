@@ -1,0 +1,1 @@
+   	 The start class is not very important, think about how you like to play (use miracles, use heavy weapon, be a tank...) and level up with this logic. 

@@ -1,0 +1,1 @@
+   	 Think of it this way, animation speed is the highway speed limit, movespeed is how fast your car can go. Just because you have boots that say "speed limit cannot be modified" doesn't mean your tires can't be blown out, where your tires being blown out means reductions to move speed rather than animation speed. 

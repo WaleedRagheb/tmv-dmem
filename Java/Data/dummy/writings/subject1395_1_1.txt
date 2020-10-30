@@ -1,0 +1,1 @@
+ Strange disc-read error during game? 	 So I've been getting disc read errors during games very consistently, but the weird thing is that the game is still going on in the background. It doesn't SEEM to be having much of a problem reading the disc. Anyone else have this issue? 

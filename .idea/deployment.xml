@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="waleed@gpu4.lirmm.fr:22 (2)" autoUploadExternalChanges="true" compareModeInSync="TIMESTAMP">
+    <serverData>
+      <paths name="waleed@193.49.108.161:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="waleed@gpu4.lirmm.fr:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/waleed/Projects/AttentionLSTM_r" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="waleed@gpu4.lirmm.fr:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/waleed/Projects/AttentionLSTM_r" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="waleed@gpu4.lirmm.fr:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/waleed/Projects/AttentionLSTM_r" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/Java/Data/dummy/writings" />
+            <excludedPath path="/home/waleed/Projects/AttentionLSTM_r/Java/Data/dummy/writings" />
+            <excludedPath path="/home/waleed/Projects/AttentionLSTM_r/Java/Data/test/writings" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="waleed@gpu4.lirmm.fr:22 (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

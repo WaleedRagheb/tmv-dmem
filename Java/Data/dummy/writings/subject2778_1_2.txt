@@ -1,0 +1,1 @@
+   	 Well, since you're addressing your reply to me, I can say that yes, I program often in OO, I'm studying Computer Games Programming at University at the moment. In doing so, I *need* linear algebra, as it concerns matrices and vectors, both of which I use extensively, and collision detection goes without saying. 

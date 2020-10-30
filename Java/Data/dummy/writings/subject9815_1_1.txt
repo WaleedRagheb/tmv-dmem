@@ -1,0 +1,1 @@
+ Switch 4G/LTE on 	 Just purchased an ATT variant for my wife. I use W10 personally and my wife was coming from an iPhone. I can't figure out how to enable LTE on her phone. I've tried opening the phone information with the *#*4636#*#* etc string but it says information isn't available for the phone. Any help is appreciated 

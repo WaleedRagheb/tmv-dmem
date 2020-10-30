@@ -1,0 +1,1 @@
+   	 I'm having the same issue. If I try to cast something from Netflix, it just sits on the loading screen on my mac. 

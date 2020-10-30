@@ -1,0 +1,1 @@
+ hidemyass is a tool for wiping access log when you really wanna hide yourself from admin. Were modifying those systemlog very carefully by removing one single log record instead of the whole log file. Also, the file permission, owner/group and ctime/atime are kept as the old file. 	  

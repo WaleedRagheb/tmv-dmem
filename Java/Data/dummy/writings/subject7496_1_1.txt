@@ -1,0 +1,1 @@
+   	 I use thinkpad t61 for android apps/games when I'm out of home and everything is ok, it handle well even long chain of android libs in eclipse while building. For games you can use libgdx to test your android game on pc and you will have almost instant build test. 

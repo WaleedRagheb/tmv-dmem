@@ -1,0 +1,5 @@
+http://erisk.irlab.org/challenge-t2/getwritings/%s
+http://erisk.irlab.org/challenge-t2/submit/%s/%d
+d4300519f8816a3233401ca2637cdcf9
+../Data/testT2/writings/
+../Data/testT2/Decisions/last

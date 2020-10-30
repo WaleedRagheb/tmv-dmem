@@ -1,0 +1,1 @@
+   	 well panoramic menus in WP7 are always in portrait but i could put it in landscape if people really want it. and if you want some code ill put it up soon. i just need to get it more organized so others can understand it. 
